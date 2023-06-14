@@ -14,7 +14,9 @@ data = random.choices(mylist, weights = w, k = 500)
 
 with open('pharm_data.csv', 'w', encoding='UTF8') as f:
     writer = csv.writer(f)
-    # write the data
+    # write the header
+    writer.writerow(["Z", "X", "M", "Y"])
+    # write the data 
     for row in data:
         d = row.split(",")
         writer.writerow(d)
