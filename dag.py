@@ -5,10 +5,10 @@ class DAG:
         self.name = name
         self.Nodes = list(nodes) # list of nodes in the graph
         self.Edges = list(edges) # list of edges in the graph
-        # self.Factor = factor # list of factors representing joint probability
-        #                             # distribution in the graph 
-        # fill in adjusting list of neighbors for each node based on edges
-        # TODO
+        for node in self.Nodes:
+            for edge in self.Edges:
+                if node in edge.endpoints:
+                    node.add_neighbors(edge.get_neighbor(node))
 
     def add_edges(self,var1, var2, endpoint = None):
         e = Edge(var1, var2, endpoint)
@@ -55,11 +55,16 @@ class Edge:
         self.arrow = end # end represents which variable the arrow points to, 
                         # if the edge does not have direction the end would just be none.
     
+    def get_neighbor(self, vertice):
+        for v in self.endpoints:
+            if v != vertice:
+                return v
+            
     def get_vertices(self):
         """Returns a list of 2 end points"""
         return self.endpoints
     
-    def add_endpoint(self,var: Node):
+    def add_arrow(self,var: Node):
         """Adding arrow to this edge pointing towards var"""
         self.arrow = var
     
