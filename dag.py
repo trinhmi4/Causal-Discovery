@@ -5,7 +5,7 @@ class DAG:
         self.name = name
         self.Nodes = list(nodes) # list of nodes in the graph
         self.Edges = list(edges) # list of edges in the graph
-        self.Factors = list(factor) # list of factors representing probability
+        self.Factor = factor # list of factors representing joint probability
                                     # distribution in the graph 
 
     def add_edges(self,var1, var2, endpoint = None):
@@ -17,13 +17,13 @@ class DAG:
             if var1 in e.get_vertices() and var2 in e.get_vertices():
                 self.Edges.remove(e)
 
-    def factors(self):
-        return list(self.Factors)
+    def get_factor(self):
+        return list(self.Factor)
     
-    def nodes(self):
+    def get_nodes(self):
         return list(self.Nodes)
     
-    def edges(self):
+    def get_edges(self):
         return list(self.Edges)
     
 class Node(Variable):       
