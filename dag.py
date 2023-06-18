@@ -1,6 +1,6 @@
 from bnetbase import Factor, Variable
 class DAG:
-    def __init__(self, name, nodes, edges, factor) -> None:
+    def __init__(self, name, nodes, edges) -> None:
         """Create a DAG that represents the given information """
         self.name = name
         self.Nodes = list(nodes) # list of nodes in the graph
@@ -8,7 +8,7 @@ class DAG:
         for node in self.Nodes:
             for edge in self.Edges:
                 if node in edge.endpoints:
-                    node.add_neighbors(edge.get_neighbor(node))
+                    node.add_neighbors([edge.get_neighbor(node)])
 
     def add_edges(self,var1, var2, endpoint = None):
         e = Edge(var1, var2, endpoint)
@@ -27,6 +27,9 @@ class DAG:
     
     def get_edges(self):
         return list(self.Edges)
+    
+    def __repr__(self) -> str:
+        return("There are {} vertices and {} edges. \n The vertices are {}. \n The edges are {}.".format(len(self.Nodes), len(self.Edges), self.Nodes, self.Edges))
     
 class Node(Variable):       
     def __init__(self, name, domain=[], neighbors=[]):
@@ -75,12 +78,12 @@ class Edge:
     def __repr__(self):
         '''string to return when evaluating the object'''
         if self.arrow is None:
-            return("{}".format(self.endpoints[0]) + 
-                   "------" + "{}".format(self.endpoints[1]))
+            return("{}".format(self.endpoints[0].name) + 
+                   "--" + "{}".format(self.endpoints[1].name))
         else:
             if self.endpoints[0] == self.arrow:
-                return("{}".format(self.endpoints[1]) + 
-                   "----->" + "{}".format(self.endpoints[0]))
+                return("{}".format(self.endpoints[1].name) + 
+                   "-->" + "{}".format(self.endpoints[0].name))
             else:
-                return("{}".format(self.endpoints[0]) + 
-                   "----->" + "{}".format(self.endpoints[1]))
+                return("{}".format(self.endpoints[0].name) + 
+                   "-->" + "{}".format(self.endpoints[1].name))
