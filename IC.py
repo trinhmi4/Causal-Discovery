@@ -158,7 +158,10 @@ def cond_prob(nodes: list[Node], s: list[Node], data):
 def reduce(data, nodes: list[Node], target: list[str]):
     """Returns a table only with rows contain target values."""
     col = [node.name for node in nodes]
-    return data[data[col] == target] # will have to recheck the syntax
+    data2 = data
+    for i in range(len(col)):
+        data2 = data2[data2[col[i]] == target[i]]
+    return data2 # will have to recheck the syntax
 
 
 
