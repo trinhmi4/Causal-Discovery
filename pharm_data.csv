@@ -1,501 +1,1001 @@
 Z,X,M,Y
-z, x, -m ,- y
-z, -x, m , y
-z, x, m ,- y
-z, x, -m ,- y
-z, -x, m , y
-z, -x, m , y
--z, x, m , y
-z, -x, m , y
-z, x, m , y
-z, -x, -m ,y
-z, x, m , y
-z, -x, m , y
--z, -x, m ,- y
-z, x, m ,- y
--z, -x, m ,- y
-z, x, m ,- y
-z, x, -m , y
--z, x, m , y
--z, x, -m ,- y
--z, x, m ,- y
--z, x, -m ,- y
-z, -x, -m ,y
--z, x, m ,- y
--z, x, m ,- y
--z, -x, m , y
-z, -x, -m ,y
--z, -x, -m ,- y
-z, x, m , y
--z, -x, m ,- y
-z, -x, -m ,y
--z, -x, m , y
-z, x, m , y
--z, -x, m ,- y
--z, -x, m , y
-z, x, -m , y
--z, x, -m ,- y
--z, -x, m ,- y
--z, -x, m ,- y
-z, x, m ,- y
-z, x, m , y
-z, x, m , y
--z, x, -m ,- y
-z, x, -m ,- y
--z, x, -m , y
-z, -x, m , y
-z, x, -m , y
-z, -x, m ,- y
-z, -x, m , y
--z, x, -m ,- y
-z, x, -m ,- y
-z, -x, m ,- y
-z, -x, m , y
-z, -x, -m ,y
-z, x, -m , y
--z, -x, m , y
-z, -x, m , y
--z, x, m ,- y
--z, x, m ,- y
-z, x, -m , y
-z, x, m ,- y
--z, -x, m ,- y
-z, x, m , y
--z, -x, m ,- y
-z, -x, m , y
-z, -x, m , y
--z, -x, m ,- y
--z, -x, -m ,- y
-z, -x, m , y
--z, -x, m ,- y
-z, x, -m , y
-z, x, m , y
--z, x, -m ,- y
-z, x, -m ,- y
--z, -x, m ,- y
-z, -x, m ,- y
--z, x, m ,- y
-z, x, m , y
-z, x, -m , y
--z, x, -m ,- y
--z, x, -m ,- y
-z, x, -m ,- y
--z, x, m ,- y
--z, -x, m ,- y
-z, x, -m ,- y
--z, -x, m ,- y
-z, x, m , y
--z, -x, m , y
--z, -x, -m ,- y
-z, x, -m ,- y
--z, -x, m , y
-z, x, -m ,- y
--z, -x, m ,- y
-z, x, m , y
-z, x, m ,- y
-z, x, m , y
--z, x, m ,- y
-z, x, m , y
-z, x, m , y
--z, -x, m ,- y
-z, -x, m ,- y
--z, x, -m , y
--z, -x, m ,- y
--z, -x, -m ,- y
--z, -x, -m ,- y
--z, -x, m , y
--z, x, m ,- y
-z, -x, -m ,y
-z, x, m ,- y
-z, x, -m ,- y
-z, x, -m ,- y
-z, x, m ,- y
-z, x, m ,- y
-z, x, m , y
-z, x, m , y
-z, -x, -m ,y
--z, -x, m ,- y
-z, x, -m , y
--z, -x, m ,- y
--z, x, m ,- y
-z, x, -m ,- y
-z, x, -m ,- y
--z, -x, m ,- y
-z, x, m ,- y
--z, -x, -m ,- y
--z, x, m ,- y
-z, -x, m , y
--z, x, m ,- y
-z, x, m ,- y
--z, x, m ,- y
--z, x, -m ,- y
-z, x, -m , y
-z, x, m , y
-z, x, -m ,- y
-z, -x, m , y
-z, x, m , y
-z, -x, m , y
-z, x, -m , y
--z, -x, m ,- y
-z, -x, m , y
-z, -x, -m ,y
-z, x, m , y
-z, -x, -m ,y
-z, x, -m , y
--z, -x, m , y
-z, x, -m ,- y
-z, -x, -m ,y
--z, -x, m ,- y
-z, x, -m , y
--z, -x, m ,- y
--z, -x, m , y
-z, -x, m , y
-z, x, m ,- y
--z, x, m ,- y
-z, x, -m , y
--z, -x, m ,- y
--z, -x, m ,- y
-z, x, m ,- y
-z, -x, m , y
--z, -x, -m ,- y
-z, x, m , y
-z, x, -m ,- y
-z, -x, m , y
-z, -x, m , y
-z, x, m , y
--z, x, m ,- y
-z, x, m ,- y
--z, -x, m , y
--z, x, m ,- y
--z, -x, m ,- y
-z, -x, m , y
-z, -x, m ,- y
-z, -x, -m ,- y
-z, x, -m ,- y
-z, -x, m , y
-z, -x, m , y
-z, x, -m , y
-z, x, -m , y
-z, x, -m ,- y
--z, -x, m ,- y
-z, -x, m ,- y
-z, x, -m ,- y
--z, x, -m ,- y
-z, x, -m , y
-z, -x, m , y
-z, x, -m ,- y
--z, -x, m ,- y
--z, -x, m ,- y
-z, x, -m , y
-z, -x, m , y
-z, -x, m , y
-z, x, m , y
--z, -x, -m ,y
-z, x, m ,- y
-z, x, -m ,- y
-z, x, -m ,- y
-z, x, m , y
--z, -x, m , y
-z, -x, -m ,y
-z, -x, m ,- y
-z, x, -m ,- y
-z, -x, m , y
-z, x, m , y
-z, -x, -m ,- y
-z, x, m , y
-z, x, m ,- y
-z, x, m ,- y
--z, -x, m ,- y
--z, x, -m ,- y
-z, -x, m , y
-z, x, m ,- y
--z, x, m ,- y
-z, -x, m , y
--z, x, -m ,- y
-z, x, m ,- y
--z, x, m ,- y
-z, x, -m , y
-z, x, m ,- y
-z, x, m ,- y
-z, x, -m , y
--z, -x, m , y
--z, -x, m , y
-z, x, m , y
-z, -x, m , y
-z, -x, m ,- y
--z, x, m ,- y
-z, x, m ,- y
-z, -x, m , y
-z, -x, m ,- y
-z, x, m ,- y
-z, x, m ,- y
-z, -x, m ,- y
--z, x, -m ,- y
--z, -x, m ,- y
--z, x, -m ,- y
--z, x, m ,- y
-z, x, -m , y
-z, -x, m , y
--z, -x, -m ,y
-z, x, -m ,- y
--z, -x, m ,- y
-z, x, m ,- y
-z, -x, m , y
-z, -x, -m ,- y
-z, x, m ,- y
-z, x, m , y
-z, x, m , y
-z, -x, m , y
-z, x, m ,- y
-z, x, -m ,- y
-z, x, m ,- y
-z, -x, m ,- y
-z, -x, -m ,- y
-z, x, m , y
-z, x, m , y
-z, -x, m ,- y
--z, x, m ,- y
-z, -x, m ,- y
-z, x, -m ,- y
-z, -x, m , y
-z, x, -m ,- y
--z, -x, m ,- y
-z, x, m , y
-z, x, m ,- y
-z, x, -m ,- y
-z, -x, m ,- y
-z, -x, -m ,- y
-z, -x, -m ,y
-z, -x, m , y
-z, x, m ,- y
-z, x, -m ,- y
-z, x, -m ,- y
-z, -x, m ,- y
-z, -x, -m ,- y
-z, x, -m , y
-z, x, -m , y
-z, x, m , y
-z, x, -m ,- y
--z, -x, m , y
--z, x, -m ,- y
--z, x, m ,- y
-z, -x, m ,- y
--z, -x, m , y
--z, -x, m ,- y
-z, -x, m , y
-z, -x, -m ,y
-z, x, -m ,- y
-z, x, m , y
--z, -x, -m ,- y
-z, x, m , y
-z, x, -m ,- y
-z, x, -m ,- y
-z, -x, m ,- y
--z, -x, m ,- y
-z, x, m , y
--z, -x, m , y
-z, x, m , y
--z, -x, m , y
--z, -x, m ,- y
-z, x, -m , y
-z, x, -m ,- y
--z, -x, m , y
-z, -x, m , y
-z, x, m ,- y
--z, -x, -m ,- y
-z, x, m , y
--z, -x, m ,- y
-z, x, -m , y
--z, -x, m ,- y
--z, -x, m , y
--z, -x, m ,- y
-z, x, m ,- y
--z, -x, m ,- y
--z, -x, m ,- y
--z, -x, m ,- y
--z, -x, m ,- y
-z, x, -m ,- y
--z, x, m ,- y
--z, -x, m ,- y
-z, -x, m , y
-z, x, m , y
-z, x, m ,- y
-z, x, m ,- y
-z, x, m ,- y
-z, x, -m , y
--z, x, m ,- y
-z, x, m ,- y
-z, x, -m ,- y
-z, x, m , y
--z, -x, m ,- y
--z, -x, -m ,- y
-z, -x, m ,- y
--z, -x, m , y
-z, x, -m ,- y
-z, -x, -m ,y
-z, -x, m , y
-z, x, m ,- y
-z, -x, -m ,y
-z, x, m , y
--z, -x, m ,- y
--z, -x, m ,- y
--z, x, m ,- y
-z, x, -m , y
-z, x, m , y
-z, x, m , y
-z, -x, m , y
-z, -x, m ,- y
-z, -x, m , y
-z, x, -m , y
--z, -x, -m ,- y
-z, x, -m , y
-z, -x, m , y
-z, -x, m ,- y
--z, x, -m ,- y
--z, -x, -m ,- y
-z, x, m ,- y
-z, x, -m ,- y
-z, -x, -m ,- y
--z, x, -m ,- y
-z, -x, -m ,y
--z, -x, m , y
--z, -x, m , y
--z, -x, m , y
--z, -x, -m ,- y
--z, -x, -m ,- y
-z, x, m ,- y
-z, x, -m ,- y
-z, x, m ,- y
--z, x, m ,- y
-z, -x, m , y
-z, -x, m , y
--z, -x, -m ,- y
--z, -x, m ,- y
-z, -x, m , y
--z, -x, m ,- y
-z, x, -m , y
--z, x, -m ,- y
-z, -x, -m ,- y
-z, -x, -m ,- y
-z, x, m , y
-z, x, -m ,- y
--z, x, m ,- y
-z, -x, m ,- y
--z, -x, m , y
-z, x, m ,- y
--z, -x, m ,- y
-z, x, m ,- y
-z, -x, m , y
-z, x, m ,- y
--z, -x, -m ,- y
-z, x, -m ,- y
--z, -x, m , y
--z, -x, m , y
--z, -x, m ,- y
--z, -x, m ,- y
--z, -x, m ,- y
-z, -x, -m ,- y
--z, -x, m ,- y
-z, -x, m , y
-z, -x, m , y
-z, x, -m ,- y
--z, -x, -m ,- y
--z, -x, m , y
-z, x, -m , y
-z, -x, m , y
-z, -x, -m ,y
-z, x, m ,- y
--z, x, -m ,- y
-z, -x, -m ,- y
-z, x, m ,- y
-z, x, m , y
-z, x, m ,- y
-z, x, m , y
-z, -x, m , y
--z, -x, -m ,- y
-z, -x, m , y
-z, -x, m ,- y
-z, x, m ,- y
-z, x, m ,- y
-z, x, -m , y
-z, -x, m ,- y
-z, x, m , y
-z, -x, m , y
-z, -x, m , y
--z, -x, m , y
--z, -x, m ,- y
-z, -x, m , y
--z, x, m ,- y
-z, x, -m , y
-z, x, m , y
-z, -x, m , y
--z, -x, m ,- y
-z, x, m ,- y
-z, x, -m ,- y
--z, -x, m , y
-z, x, m ,- y
-z, -x, m , y
-z, -x, m ,- y
-z, -x, m , y
--z, -x, m ,- y
-z, x, m ,- y
-z, -x, m , y
-z, x, -m , y
-z, x, m , y
-z, x, m , y
--z, -x, -m ,- y
-z, -x, -m ,- y
-z, -x, m ,- y
--z, x, m ,- y
-z, x, m ,- y
-z, -x, m , y
--z, -x, m ,- y
--z, -x, m , y
--z, -x, m , y
-z, -x, m ,- y
-z, x, -m , y
--z, -x, m , y
-z, x, -m ,- y
--z, -x, m ,- y
-z, -x, -m ,- y
-z, x, m , y
--z, -x, m , y
--z, -x, -m ,y
-z, -x, m , y
-z, x, -m ,- y
--z, -x, m , y
-z, x, -m , y
--z, -x, m ,- y
--z, -x, m ,- y
-z, x, m , y
-z, -x, -m ,- y
--z, -x, m ,- y
-z, x, m ,- y
-z, x, -m ,- y
-z, x, m ,- y
-z, -x, m , y
-z, x, m ,- y
--z, -x, -m ,y
--z, -x, m ,- y
--z, -x, m , y
-z, -x, -m ,y
--z, -x, m ,- y
-z, x, m ,- y
-z, x, m ,- y
--z, -x, m , y
-z, -x, -m ,y
--z, x, -m ,- y
-z, x, -m , y
-z, x, -m , y
-z, x, -m ,- y
-z, -x, m ,- y
-z, x, m , y
-z, x, -m , y
--z, x, m , y
-z, x, m ,- y
-z, x, -m ,- y
-z, x, -m ,- y
-z, -x, m , y
-z, -x, m , y
-z, x, m ,- y
--z, x, -m ,- y
+z, x, -m, -y
+ -z, -x, m, -y
+ -z, -x, m, y
+ -z, -x, m, y
+z, x, -m, y
+z, -x, m, -y
+z, x, m, y
+z, x, -m, -y
+z, x, m, y
+z, x, m, -y
+z, -x, m, -y
+z, x, -m, -y
+ -z, x, m, -y
+z, x, m, -y
+z, -x, m, -y
+z, -x, m, y
+ -z, x, m, -y
+z, -x, m, -y
+z, x, -m, -y
+z, -x, m, -y
+z, x, -m, y
+z, x, -m, y
+ -z, x, m, -y
+ -z, -x, m, y
+ -z, -x, m, -y
+z, x, m, -y
+ -z, -x, m, -y
+ -z, -x, -m, y
+z, x, m, y
+ -z, -x, m, y
+z, x, m, -y
+z, x, -m, y
+z, -x, -m, y
+z, x, -m, -y
+z, -x, -m, -y
+z, x, m, y
+ -z, -x, m, -y
+z, x, -m, -y
+z, -x, m, y
+ -z, x, -m, -y
+z, x, m, -y
+ -z, x, m, -y
+z, -x, m, y
+ -z, -x, m, -y
+ -z, x, m, y
+ -z, x, m, -y
+z, x, m, y
+ -z, -x, m, y
+z, -x, m, y
+z, -x, m, -y
+z, x, m, -y
+ -z, -x, m, -y
+z, -x, m, -y
+z, -x, m, -y
+z, x, -m, -y
+z, -x, m, -y
+ -z, x, m, -y
+z, -x, m, -y
+z, -x, m, -y
+z, x, -m, y
+z, -x, m, -y
+ -z, -x, m, -y
+z, -x, -m, -y
+z, -x, m, -y
+ -z, x, m, -y
+z, -x, m, -y
+z, -x, m, -y
+z, -x, m, -y
+ -z, x, -m, -y
+z, x, -m, -y
+ -z, -x, m, y
+z, -x, m, y
+z, -x, m, y
+z, x, -m, y
+ -z, x, m, -y
+ -z, x, m, -y
+ -z, -x, m, -y
+z, x, -m, -y
+ -z, x, m, -y
+z, x, m, y
+z, x, -m, -y
+ -z, -x, m, y
+z, x, m, y
+z, x, m, y
+z, -x, m, -y
+z, x, m, -y
+z, x, m, -y
+ -z, -x, m, -y
+z, -x, -m, y
+z, x, -m, -y
+z, x, -m, y
+z, x, m, y
+ -z, -x, m, y
+z, x, -m, -y
+ -z, x, m, -y
+z, x, m, y
+z, -x, m, y
+z, x, m, y
+ -z, -x, m, y
+z, -x, m, y
+ -z, -x, m, y
+z, -x, -m, -y
+z, x, -m, y
+ -z, -x, m, -y
+z, x, -m, -y
+ -z, -x, -m, y
+z, x, -m, -y
+z, -x, m, y
+z, -x, -m, -y
+ -z, -x, -m, -y
+ -z, -x, m, -y
+ -z, -x, -m, y
+ -z, -x, -m, -y
+ -z, -x, m, -y
+z, x, -m, y
+ -z, x, m, -y
+z, x, -m, y
+z, x, -m, y
+ -z, -x, m, -y
+ -z, -x, -m, y
+ -z, -x, m, y
+ -z, -x, m, -y
+ -z, x, m, -y
+ -z, -x, m, -y
+z, x, m, -y
+z, x, -m, y
+ -z, x, m, -y
+z, x, m, y
+z, x, -m, -y
+z, x, m, y
+z, x, m, -y
+ -z, -x, m, -y
+ -z, -x, m, -y
+ -z, x, m, -y
+ -z, -x, m, y
+z, x, -m, -y
+z, x, m, y
+z, -x, m, y
+z, -x, m, y
+z, -x, m, -y
+z, x, m, y
+z, x, m, y
+z, x, m, y
+z, -x, -m, y
+ -z, -x, m, -y
+ -z, -x, m, -y
+ -z, -x, -m, -y
+ -z, -x, m, -y
+z, -x, m, y
+z, x, m, -y
+z, x, -m, y
+ -z, -x, m, -y
+z, x, m, y
+z, x, -m, y
+z, -x, m, y
+z, -x, m, y
+z, x, -m, -y
+ -z, x, -m, -y
+ -z, x, m, -y
+z, x, m, y
+z, -x, m, y
+ -z, x, m, -y
+z, x, -m, y
+ -z, -x, -m, -y
+ -z, -x, -m, y
+ -z, -x, m, -y
+ -z, -x, m, -y
+ -z, -x, m, y
+z, -x, m, y
+z, -x, -m, -y
+z, -x, m, y
+z, x, -m, y
+ -z, x, m, -y
+z, -x, -m, y
+z, -x, -m, -y
+z, x, -m, -y
+z, -x, m, -y
+z, -x, m, y
+z, x, m, -y
+ -z, x, -m, -y
+z, x, -m, -y
+z, x, m, -y
+ -z, -x, m, -y
+ -z, x, m, -y
+z, x, m, y
+z, -x, m, y
+z, x, m, y
+z, x, -m, y
+z, -x, m, -y
+z, -x, -m, y
+ -z, -x, m, -y
+z, -x, m, y
+z, x, -m, -y
+z, x, m, y
+z, x, m, -y
+z, x, -m, -y
+ -z, -x, m, -y
+ -z, -x, m, -y
+ -z, x, m, -y
+z, x, m, -y
+z, x, m, y
+z, x, m, -y
+z, -x, m, -y
+z, -x, -m, -y
+ -z, x, m, -y
+z, -x, -m, -y
+z, x, m, y
+z, -x, -m, -y
+z, -x, m, y
+z, x, -m, y
+z, x, m, y
+z, x, m, y
+z, x, -m, -y
+ -z, x, m, -y
+z, x, -m, y
+ -z, -x, m, y
+z, -x, m, -y
+ -z, x, m, -y
+z, x, m, y
+z, x, m, y
+ -z, x, -m, -y
+z, -x, -m, -y
+ -z, -x, m, -y
+z, x, m, y
+z, -x, m, -y
+z, x, m, -y
+z, -x, -m, -y
+z, -x, m, y
+z, x, -m, y
+ -z, -x, m, y
+z, x, m, y
+ -z, x, -m, y
+ -z, -x, m, -y
+z, x, m, y
+ -z, x, -m, -y
+ -z, x, m, -y
+z, x, m, y
+z, -x, m, y
+z, x, -m, -y
+z, -x, m, y
+ -z, -x, m, y
+ -z, -x, m, -y
+z, x, m, y
+z, x, -m, -y
+z, x, -m, -y
+ -z, -x, m, -y
+z, x, -m, -y
+z, x, m, y
+ -z, -x, m, -y
+ -z, -x, m, -y
+z, x, m, -y
+z, x, m, y
+z, x, m, y
+z, x, m, y
+ -z, x, -m, -y
+ -z, x, -m, -y
+ -z, x, m, -y
+z, x, m, -y
+z, x, m, -y
+z, x, m, -y
+z, -x, -m, y
+z, -x, m, -y
+z, -x, -m, y
+z, -x, m, y
+ -z, -x, -m, -y
+z, -x, m, -y
+z, -x, m, -y
+z, x, m, y
+z, x, m, y
+ -z, -x, m, -y
+z, x, -m, -y
+ -z, -x, m, -y
+ -z, -x, m, -y
+z, x, m, y
+ -z, -x, m, -y
+ -z, -x, m, -y
+ -z, -x, -m, -y
+z, x, m, y
+z, x, m, -y
+z, x, -m, -y
+z, x, -m, -y
+z, -x, m, -y
+z, -x, m, y
+z, x, -m, -y
+z, -x, m, y
+z, -x, m, -y
+z, x, -m, y
+z, x, m, y
+ -z, x, m, -y
+ -z, x, m, -y
+z, x, m, -y
+z, -x, m, y
+ -z, -x, m, -y
+ -z, -x, m, -y
+z, -x, m, -y
+z, -x, m, y
+ -z, -x, m, -y
+z, x, -m, y
+ -z, x, m, -y
+z, x, m, y
+z, x, m, -y
+z, -x, -m, -y
+z, x, m, -y
+ -z, -x, m, -y
+z, x, m, y
+ -z, x, m, -y
+z, x, m, y
+z, x, m, -y
+ -z, x, -m, -y
+z, -x, m, -y
+z, -x, m, y
+ -z, x, m, -y
+z, x, m, -y
+z, x, m, -y
+z, x, m, -y
+z, -x, -m, -y
+z, -x, m, y
+z, -x, -m, y
+ -z, -x, -m, -y
+ -z, -x, m, y
+z, x, m, -y
+z, x, m, -y
+z, -x, m, -y
+z, x, m, y
+ -z, -x, m, y
+ -z, x, -m, -y
+z, x, m, -y
+z, -x, m, -y
+z, -x, -m, -y
+z, -x, m, y
+z, x, -m, -y
+z, x, m, y
+z, x, m, y
+ -z, x, -m, -y
+z, x, -m, -y
+ -z, -x, m, y
+ -z, -x, m, y
+z, -x, m, y
+z, x, -m, -y
+z, x, -m, -y
+ -z, -x, m, -y
+ -z, -x, m, -y
+z, x, m, y
+z, x, m, -y
+z, -x, m, y
+z, x, m, y
+z, x, -m, -y
+z, x, m, -y
+ -z, -x, m, -y
+z, x, -m, -y
+z, x, -m, -y
+z, -x, m, y
+z, x, m, y
+ -z, -x, m, -y
+ -z, x, m, -y
+ -z, -x, m, -y
+z, x, m, y
+ -z, -x, m, -y
+ -z, x, m, -y
+z, -x, m, -y
+ -z, -x, m, -y
+z, x, -m, -y
+z, -x, m, -y
+ -z, x, m, -y
+z, x, -m, y
+z, x, m, -y
+ -z, x, m, -y
+z, x, m, -y
+z, x, -m, -y
+ -z, x, -m, -y
+z, x, -m, y
+ -z, x, m, -y
+z, x, -m, -y
+z, x, m, -y
+z, -x, -m, -y
+ -z, x, m, -y
+ -z, -x, -m, -y
+z, -x, m, y
+z, x, -m, y
+z, x, m, -y
+ -z, x, -m, -y
+ -z, -x, m, y
+z, x, -m, y
+ -z, -x, m, -y
+ -z, -x, -m, -y
+z, -x, m, y
+ -z, -x, m, -y
+z, -x, m, -y
+ -z, -x, m, -y
+z, -x, -m, -y
+z, x, -m, y
+ -z, -x, m, y
+ -z, x, m, -y
+z, x, -m, -y
+ -z, x, m, -y
+ -z, -x, m, -y
+z, x, m, y
+z, -x, m, y
+z, -x, m, -y
+ -z, -x, m, -y
+z, x, m, -y
+ -z, -x, m, -y
+z, -x, -m, y
+z, -x, m, y
+ -z, -x, m, -y
+z, -x, m, y
+z, -x, -m, y
+z, x, m, y
+ -z, -x, m, -y
+ -z, -x, m, -y
+z, x, m, -y
+z, x, -m, y
+z, x, m, y
+z, x, -m, -y
+z, x, -m, -y
+z, x, m, y
+z, x, -m, -y
+ -z, -x, m, -y
+z, -x, -m, -y
+ -z, -x, m, y
+z, -x, m, y
+ -z, -x, m, y
+ -z, -x, m, -y
+z, x, m, -y
+z, -x, m, y
+ -z, -x, m, -y
+z, -x, m, y
+ -z, -x, m, y
+z, -x, m, -y
+ -z, x, -m, -y
+ -z, -x, m, -y
+z, x, -m, -y
+z, -x, m, -y
+z, -x, m, y
+ -z, x, m, -y
+z, x, -m, -y
+z, -x, -m, y
+z, x, -m, -y
+ -z, x, m, -y
+z, x, m, -y
+ -z, x, -m, -y
+z, x, m, y
+ -z, -x, m, -y
+ -z, x, m, y
+ -z, -x, -m, -y
+z, x, m, -y
+ -z, x, m, -y
+ -z, x, m, -y
+z, -x, m, -y
+ -z, -x, -m, -y
+z, x, m, -y
+ -z, -x, m, -y
+z, x, m, y
+z, x, m, -y
+z, -x, -m, -y
+z, x, m, y
+z, -x, m, y
+z, x, -m, -y
+z, -x, m, -y
+z, -x, -m, y
+ -z, x, -m, -y
+z, -x, -m, y
+z, x, m, -y
+z, x, m, -y
+z, -x, m, -y
+z, -x, m, -y
+z, x, m, y
+ -z, x, -m, -y
+z, x, m, y
+z, -x, m, y
+ -z, -x, m, -y
+z, x, -m, -y
+z, -x, m, y
+ -z, x, m, y
+z, x, -m, -y
+z, -x, m, -y
+ -z, -x, m, -y
+z, -x, m, -y
+ -z, -x, -m, -y
+z, -x, m, -y
+ -z, x, -m, -y
+z, -x, m, -y
+ -z, -x, -m, -y
+ -z, -x, m, -y
+z, x, m, -y
+z, -x, m, -y
+z, x, m, y
+ -z, -x, -m, -y
+ -z, x, m, y
+z, -x, m, y
+ -z, -x, m, -y
+z, x, m, y
+z, -x, m, -y
+ -z, -x, m, -y
+z, x, m, -y
+z, x, m, y
+z, x, -m, -y
+z, -x, m, -y
+z, -x, -m, -y
+z, x, -m, y
+z, x, -m, -y
+z, x, -m, -y
+ -z, -x, m, -y
+z, -x, m, -y
+z, x, m, y
+ -z, -x, m, -y
+z, x, m, y
+ -z, x, m, -y
+z, x, -m, y
+z, -x, -m, -y
+z, x, -m, y
+z, -x, -m, -y
+z, -x, -m, y
+z, x, m, -y
+z, -x, -m, y
+z, x, -m, -y
+ -z, -x, m, y
+z, x, -m, y
+z, -x, m, -y
+ -z, -x, m, -y
+z, -x, m, y
+z, -x, m, y
+ -z, x, -m, -y
+z, x, m, -y
+z, -x, m, -y
+ -z, -x, m, -y
+ -z, x, m, -y
+ -z, x, m, -y
+z, -x, m, y
+z, -x, m, y
+ -z, -x, m, y
+z, -x, m, y
+z, x, m, -y
+z, -x, m, -y
+z, -x, m, y
+z, x, m, -y
+ -z, -x, m, y
+z, -x, m, y
+z, x, m, -y
+ -z, -x, m, -y
+z, -x, -m, -y
+z, x, -m, y
+z, -x, m, -y
+z, x, -m, -y
+z, -x, m, y
+z, -x, -m, -y
+ -z, -x, m, y
+z, -x, -m, y
+z, x, m, y
+z, -x, m, y
+ -z, x, -m, -y
+z, -x, m, -y
+ -z, -x, m, y
+z, x, m, y
+z, x, m, -y
+ -z, -x, m, -y
+ -z, -x, -m, -y
+z, -x, m, y
+z, -x, m, y
+ -z, -x, m, -y
+z, -x, m, y
+z, x, m, y
+z, x, m, y
+ -z, -x, m, -y
+ -z, -x, m, -y
+z, x, m, -y
+z, x, -m, -y
+ -z, -x, m, -y
+ -z, x, -m, -y
+z, x, m, -y
+ -z, -x, m, y
+ -z, x, m, -y
+z, x, m, -y
+ -z, -x, m, -y
+z, x, m, y
+z, x, m, y
+z, -x, m, -y
+z, -x, -m, y
+z, -x, m, y
+z, x, m, -y
+ -z, -x, m, -y
+z, -x, m, -y
+z, x, m, y
+z, -x, m, y
+z, -x, m, y
+ -z, -x, -m, -y
+z, x, m, -y
+ -z, -x, -m, -y
+z, -x, -m, y
+z, -x, m, y
+z, -x, m, y
+z, x, m, y
+z, -x, -m, y
+z, x, -m, y
+z, x, -m, y
+ -z, x, m, -y
+ -z, x, -m, -y
+z, x, -m, -y
+z, -x, -m, -y
+ -z, -x, m, -y
+z, -x, m, -y
+z, -x, m, -y
+z, x, m, y
+z, -x, m, y
+ -z, x, m, -y
+z, x, m, y
+ -z, -x, m, -y
+ -z, x, -m, -y
+ -z, x, m, -y
+z, x, m, -y
+ -z, -x, -m, -y
+z, x, m, y
+z, x, -m, -y
+z, x, m, y
+z, x, -m, -y
+z, x, -m, -y
+z, -x, m, y
+z, x, m, -y
+z, x, m, -y
+z, x, -m, -y
+z, -x, m, y
+z, -x, m, y
+ -z, -x, m, -y
+ -z, -x, m, -y
+ -z, x, m, -y
+z, x, m, -y
+ -z, x, m, y
+z, -x, m, y
+z, -x, -m, y
+ -z, -x, -m, -y
+z, -x, m, y
+z, -x, m, -y
+z, x, m, -y
+z, -x, m, y
+z, x, -m, -y
+ -z, -x, m, -y
+z, -x, m, y
+z, x, m, -y
+ -z, -x, m, -y
+ -z, x, -m, -y
+z, x, -m, -y
+z, -x, m, y
+ -z, x, m, -y
+ -z, x, -m, -y
+z, x, -m, y
+ -z, x, m, -y
+z, -x, -m, -y
+ -z, -x, m, -y
+z, x, m, y
+z, -x, -m, -y
+z, -x, m, -y
+ -z, x, -m, -y
+ -z, -x, m, -y
+ -z, -x, m, -y
+z, -x, m, y
+z, -x, -m, y
+z, x, m, -y
+z, x, -m, -y
+z, x, -m, -y
+ -z, -x, m, y
+z, -x, m, -y
+z, -x, m, y
+z, -x, m, y
+z, -x, m, y
+ -z, -x, m, y
+z, x, -m, -y
+ -z, -x, m, -y
+z, x, m, -y
+z, -x, m, y
+z, -x, m, -y
+ -z, x, m, -y
+z, x, m, -y
+ -z, x, m, -y
+z, x, -m, y
+z, x, -m, -y
+z, x, m, -y
+ -z, -x, m, -y
+z, x, -m, -y
+z, x, m, y
+z, x, m, y
+z, x, m, y
+ -z, x, m, -y
+z, x, -m, -y
+z, x, m, -y
+ -z, -x, m, -y
+z, x, m, y
+z, x, m, y
+z, -x, m, y
+z, x, -m, y
+z, -x, m, y
+ -z, -x, m, -y
+ -z, -x, -m, -y
+z, x, -m, -y
+ -z, x, -m, -y
+ -z, -x, m, -y
+ -z, -x, -m, y
+z, -x, m, y
+ -z, -x, m, -y
+z, x, m, y
+z, -x, m, -y
+ -z, x, m, -y
+z, x, -m, -y
+ -z, -x, m, -y
+z, -x, m, -y
+z, x, m, y
+z, -x, -m, -y
+ -z, x, -m, -y
+ -z, -x, m, -y
+ -z, -x, m, -y
+z, -x, m, y
+ -z, -x, m, -y
+z, -x, m, -y
+ -z, -x, -m, -y
+z, -x, m, y
+ -z, x, -m, -y
+z, x, -m, -y
+z, -x, m, y
+z, x, -m, -y
+ -z, x, m, -y
+z, -x, -m, y
+z, -x, m, y
+z, x, -m, -y
+z, x, -m, -y
+ -z, -x, -m, -y
+ -z, x, m, -y
+z, x, -m, -y
+z, x, -m, y
+ -z, -x, m, -y
+ -z, x, m, -y
+z, -x, -m, y
+z, -x, m, -y
+z, x, -m, y
+z, -x, m, -y
+z, x, m, -y
+z, -x, m, y
+z, -x, m, -y
+z, x, m, y
+z, x, -m, -y
+z, x, m, -y
+z, x, -m, -y
+z, -x, -m, y
+ -z, x, -m, -y
+z, x, m, y
+ -z, -x, -m, -y
+ -z, -x, -m, -y
+z, -x, m, y
+z, x, m, y
+ -z, -x, m, -y
+z, -x, -m, y
+ -z, x, m, -y
+z, -x, -m, y
+z, -x, m, -y
+ -z, -x, m, y
+z, x, -m, -y
+z, x, m, -y
+ -z, x, -m, -y
+z, x, m, y
+z, x, m, -y
+ -z, -x, m, y
+z, -x, m, y
+ -z, -x, m, -y
+ -z, -x, m, y
+z, x, m, y
+z, -x, -m, y
+z, x, -m, y
+z, -x, -m, y
+z, x, m, y
+z, -x, m, y
+z, -x, -m, -y
+z, x, m, y
+ -z, -x, m, -y
+z, x, m, y
+z, x, -m, -y
+ -z, -x, m, -y
+z, x, m, -y
+z, x, -m, -y
+ -z, -x, -m, y
+z, x, -m, y
+ -z, x, -m, -y
+z, -x, m, y
+z, -x, -m, y
+ -z, -x, -m, -y
+z, x, -m, y
+z, -x, m, y
+z, x, -m, -y
+ -z, x, m, -y
+z, x, m, -y
+ -z, x, -m, -y
+z, x, -m, -y
+ -z, -x, m, y
+z, x, -m, -y
+z, -x, m, -y
+z, x, m, -y
+z, -x, m, y
+ -z, -x, m, y
+ -z, -x, m, -y
+z, x, -m, -y
+z, x, -m, y
+z, x, -m, -y
+z, -x, m, -y
+z, x, m, y
+ -z, -x, m, -y
+z, x, m, y
+z, -x, m, y
+z, x, -m, -y
+z, x, -m, -y
+z, -x, m, -y
+z, -x, m, y
+z, -x, -m, -y
+z, -x, m, y
+ -z, -x, -m, -y
+ -z, -x, m, -y
+ -z, -x, m, y
+z, x, m, -y
+ -z, -x, m, y
+ -z, -x, m, -y
+ -z, -x, m, -y
+ -z, x, m, -y
+ -z, -x, -m, -y
+ -z, x, m, -y
+z, -x, m, y
+z, -x, m, y
+z, x, -m, -y
+z, -x, m, y
+ -z, x, m, y
+z, x, -m, y
+z, -x, m, y
+z, x, m, y
+z, x, m, y
+z, -x, m, y
+z, x, m, y
+ -z, x, -m, -y
+z, x, m, y
+ -z, x, m, -y
+ -z, -x, m, y
+z, -x, -m, y
+ -z, -x, m, -y
+ -z, x, m, -y
+ -z, x, m, -y
+z, x, -m, y
+z, x, -m, y
+z, x, m, -y
+z, x, -m, -y
+z, -x, m, y
+ -z, -x, m, y
+z, x, -m, -y
+z, -x, m, -y
+z, x, m, y
+z, x, -m, -y
+z, x, m, -y
+z, -x, m, y
+z, x, m, y
+z, x, -m, -y
+z, -x, m, y
+ -z, -x, -m, y
+z, x, -m, -y
+ -z, -x, m, y
+z, -x, -m, y
+z, -x, m, y
+z, -x, m, -y
+ -z, x, -m, -y
+ -z, -x, m, -y
+z, -x, m, y
+ -z, -x, -m, y
+z, x, m, -y
+z, -x, -m, -y
+ -z, x, -m, -y
+z, -x, m, -y
+z, -x, m, y
+ -z, -x, m, y
+z, x, m, y
+z, x, m, -y
+ -z, x, -m, -y
+ -z, x, -m, -y
+z, x, m, -y
+ -z, -x, m, -y
+ -z, -x, -m, -y
+z, x, m, y
+z, x, -m, y
+z, -x, m, y
+ -z, -x, m, -y
+z, -x, -m, y
+z, x, -m, y
+ -z, -x, m, -y
+z, -x, -m, y
+ -z, -x, m, -y
+z, -x, -m, -y
+z, -x, m, y
+z, x, -m, y
+z, -x, m, -y
+z, x, m, y
+z, -x, m, y
+ -z, -x, -m, -y
+ -z, -x, m, -y
+ -z, -x, m, -y
+z, -x, m, -y
+z, x, -m, y
+ -z, x, m, -y
+z, -x, m, -y
+z, x, -m, y
+z, x, -m, y
+z, x, m, y
+z, x, m, -y
+z, x, m, -y
+ -z, -x, -m, -y
+z, x, m, -y
+ -z, x, -m, -y
+ -z, x, -m, -y
+z, x, m, y
+z, -x, -m, y
+ -z, -x, m, -y
+z, x, m, -y
+z, x, -m, y
+ -z, -x, m, -y
+z, x, m, y
+z, x, -m, -y
+z, -x, m, y
+z, -x, m, -y
+z, x, m, -y
+z, -x, m, y
+z, x, -m, y
+z, x, -m, -y
+ -z, -x, -m, -y
+z, x, m, -y
+z, -x, m, -y
+z, x, m, -y
+ -z, x, m, -y
+ -z, x, m, -y
+z, x, -m, y
+z, x, -m, y
+z, x, m, -y
+ -z, -x, -m, -y
+ -z, -x, -m, -y
+z, -x, m, -y
+ -z, x, m, y
+z, x, m, -y
+ -z, -x, m, -y
+z, -x, m, y
+ -z, -x, m, y
+ -z, x, m, -y
+z, -x, m, -y
+z, x, m, -y
+ -z, -x, m, y
+z, x, m, y
+z, x, m, y
+ -z, x, m, -y
+z, -x, m, -y
+ -z, -x, -m, -y
+ -z, -x, m, -y
+z, -x, -m, y
+ -z, -x, m, -y
+z, x, m, -y
+z, x, -m, -y
+z, -x, m, y
+ -z, -x, m, y
+ -z, x, -m, -y
+ -z, -x, m, -y
+z, x, m, -y
+z, x, -m, -y
+ -z, -x, m, y
+ -z, x, m, -y
+z, x, m, y
+z, x, -m, -y
+z, x, m, y
+z, x, -m, -y
+z, -x, m, y
+z, x, m, -y
+ -z, -x, m, -y
+ -z, -x, m, y
+z, -x, m, y
+z, -x, m, y
+ -z, x, m, -y
+z, -x, -m, -y
+z, x, m, -y
+ -z, -x, m, y
+z, -x, m, -y
+ -z, -x, m, y
+ -z, x, m, -y
+z, x, -m, -y
+z, -x, -m, y
+ -z, -x, m, -y
+z, -x, -m, y
+ -z, -x, m, y
+z, x, -m, y
+z, -x, m, y
+ -z, x, -m, -y
+z, x, -m, -y
+ -z, -x, -m, -y
+ -z, x, m, -y
+ -z, x, m, -y
+ -z, -x, m, -y
+ -z, -x, m, -y
+z, x, -m, -y
+z, -x, m, y
+z, x, -m, -y
+z, x, -m, -y
+ -z, x, m, -y
+z, -x, m, -y
+z, -x, m, y
+z, x, m, -y
