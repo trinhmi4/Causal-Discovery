@@ -18,9 +18,6 @@ class DAG:
         for e in self.Edges:
             if var1 in e.get_vertices() and var2 in e.get_vertices():
                 self.Edges.remove(e)
-
-    def get_factor(self):
-        return list(self.Factor)
     
     def get_nodes(self):
         return list(self.Nodes)
