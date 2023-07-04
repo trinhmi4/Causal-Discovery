@@ -3,7 +3,7 @@ from bnetbase import Factor
 import itertools
 import csv
 import pandas as pd
-
+from sklearn.metrics import mutual_info_score as mi
 def IC(data):
     """Run IC Algorithm over given data
     data is a csv file, header included.
@@ -17,7 +17,7 @@ def IC(data):
     print(graph)
     # Step 2
     #graph = find_collider(graph, data)
-    #Step 33``
+    #Step 3
     return graph
 
 
@@ -127,32 +127,18 @@ def find_edge(var1: Node, var2: Node, graph: DAG):
 def test_independence(s: list[Node], n1: Node, n2: Node, data):
     """Returns whether a set of variables s d-separate 2 nodes n1 and n2."""
 
-    ### Calculate P(n1 | s)
-    n1_s = cond_prob([n1], s, data)
-    print("Probability of ", n1, " given ", s, " is ", n1_s)
-    ### Calculate P(n2 | s)
-    n2_s = cond_prob([n2], s, data)
-    print("Probability of ", n2, " given ", s, " is ", n2_s)
-    ### Calculate P(n1, n2 | s)
-    n1n2_s = cond_prob([n1, n2], s, data)
-    print("Probability of ", [n1,n2], " given ", s, " is ", n1n2_s)
-    return n1_s*n2_s == n1n2_s # if 2 values are equal then
-                                # n1, n2 are independent conditioning on S
-
-
-def cond_prob(nodes: list[Node], s: list[Node], data):
-    """Calculate P(nodes|s)
-    Returns a real number between 0 and 1"""
-    target = []
-    for node in nodes:
-        target.append(node.dom[0])
+    data = pd.read_csv(data)
     evidence = []
     for node in s:
         evidence.append(node.dom[0])
-    data = pd.read_csv(data)
     data_ev = reduce(data, s, evidence) # data_ev will be used to calculate P(s)
-    data_joined = reduce(data_ev, nodes, target) # data_joined will be used to calculate P(nodes AND s)
-    return len(data_joined)/len(data_ev)
+    node1 = list(data_ev[n1.name])
+    node2 = list(data_ev[n2.name])
+    print("Node 1 is ", n1.name)
+    print("Node 2 is ", n2.name)
+    print("The evidence is ", s)
+    print("Mutual information is ", mi(node1, node2))
+    return mi(node1, node2) <0.001 and -0.001 < mi(node1, node2)
 
 
 def reduce(data, nodes: list[Node], target: list[str]):
@@ -168,4 +154,3 @@ def reduce(data, nodes: list[Node], target: list[str]):
 if __name__ == '__main__':
     data = "pharm_data.csv"
     graph = IC(data)
-    # print(graph)
